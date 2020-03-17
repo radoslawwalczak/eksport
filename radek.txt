@@ -8,3 +8,5 @@
 17.03.2020  11:08                 0 radek.txt
                1 File(s)              0 bytes
                2 Dir(s)  18ÿ657ÿ005ÿ568 bytes free
+
+1 . pierwsze zmiany w pliku œledzonym
