@@ -11,3 +11,4 @@
 
 1. pierwsze zmiany w pliku œledzonym
 2. druga zmiana
+3. trzecia zmiana
