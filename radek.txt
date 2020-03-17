@@ -1,0 +1,10 @@
+ Volume in drive D is DANE
+ Volume Serial Number is 1C88-FE7C
+
+ Directory of D:\projekt-git
+
+17.03.2020  11:08    <DIR>          .
+17.03.2020  11:08    <DIR>          ..
+17.03.2020  11:08                 0 radek.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  18ÿ657ÿ005ÿ568 bytes free
